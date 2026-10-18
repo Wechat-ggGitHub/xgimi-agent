@@ -1,0 +1,4 @@
+interface:
+  display_name: "极米 App Use"
+  short_description: "看投影画面并逐步操作应用，找节目、查看记录、调整设置及遥控"
+  default_prompt: "使用 $xgimi-remote 观察极米当前界面，逐步完成我的操作目标并验证结果。"
